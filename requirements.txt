@@ -1,5 +1,6 @@
 streamlit
-tf-keras
+keras
+jax[cpu]
 numpy
 pandas
 matplotlib
